@@ -16,6 +16,18 @@ Debe tener un search box con auto complete. Debajo todos los timezones seleccion
 
 ![Ejemplo](./assets/spec.png "Ejemplo")
 
+## Corriendo el proyecto
+```bash
+# Instalar dependencias del proyecto
+yarn
+
+# Instalar dependencias de los paquetes
+yarn bootstrap
+
+# Correr el servidor de desarrollo
+yarn start
+```
+
 ## Modalidad de entrega
 * Repositorio público subido a GitHub, Gitlab, Bitbucket.
 * Link a la aplicación funcionando.
