@@ -14,7 +14,7 @@ Se debe desarrollar una api con:
 ## Frontend
 Debe tener un search box con auto complete. Debajo todos los timezones seleccionados, cada uno con su respectivo botón de borrar.
 
-![Ejemplo](./specs/spec.png "Ejemplo")
+![Ejemplo](./assets/spec.png "Ejemplo")
 
 ## Modalidad de entrega
 * Repositorio público subido a GitHub, Gitlab, Bitbucket.
